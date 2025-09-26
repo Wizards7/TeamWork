@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.azizov1{
+    border-top-color: #00C65E;
+    border-top-width: 7px;
+}
