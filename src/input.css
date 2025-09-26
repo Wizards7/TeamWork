@@ -5,6 +5,25 @@
 .sidebar{
     background-image: url("./imagesOfAli/Ellipse\ 12.png");
     background-size: cover;
+<<<<<<< HEAD
     background-repeat: no-repeat;
     background-position: center;
 }
+=======
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.bg1{
+    background-image: url(./imageOfAhmad/image\ copy.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.azizov1{
+    border-top-color: #00C65E;
+    border-top-width: 7px;
+}
+.azizov2{/* Ellipse 12 */
+    background: linear-gradient(229.62deg, #00C65E 11.68%, #CCEFDB 68.5%);
+}
+>>>>>>> 9effd404693c6a73ad8bb01964f9b2b2b5d6a61b
