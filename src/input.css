@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.sidebar{
+    background-image: url("./imagesOfAli/Ellipse\ 12.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
