@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.azizov1{
+    border-top-color: #00C65E;
+    border-top-width: 7px;
+}
+.azizov2{/* Ellipse 12 */
+    background: linear-gradient(229.62deg, #00C65E 11.68%, #CCEFDB 68.5%);
+}
